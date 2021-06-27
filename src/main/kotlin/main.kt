@@ -3,8 +3,8 @@ import com.elbekD.bot.types.*
 import queries.CustomQuery
 import utils.ViewClassConverter
 
-const val BOT_TOKEN = "1853891436:AAECOdurqZIpAeKkJKwCf9XraAxveZym97g"
-const val BOT_USERNAME = "DeezyMusicBot"
+const val BOT_TOKEN = ""
+const val BOT_USERNAME = ""
 
 fun main() {
     val bot = Bot.createPolling(BOT_USERNAME, BOT_TOKEN)
